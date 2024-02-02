@@ -11,6 +11,7 @@ Windows is really stupid and annoying to download things in. Rather than write a
 * Add C:\\Program Files\\Emacs\\emacs-x\\bin to system PATH
 * cd to C:\\Users\\{Your User Here\}\\AppData\\Roaming\\ and run `git clone --depth 1 https://github.com/hlissner/doom-emacs .emacs.d`
 * Add C:\\Users\\{Your User Here\}\\AppData\\Roaming\\.emacs.d\\bin to system PATH (Needed to enable the `doom` command)
+* run `doom install`
 * run `script.bat`
 
 ### Astro LSP
